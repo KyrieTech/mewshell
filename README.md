@@ -2,7 +2,7 @@
 A fully custom shell written in rust
 
 # Installation
-git clone <url> 
+git clone https://github.com/KyrieTech/mewshell.git 
 
   cd mewshell
 
