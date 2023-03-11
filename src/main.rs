@@ -1,7 +1,6 @@
 use std::io::{self, Write};
 use std::env;
 use colored::*;
-
 pub mod coreutils;
 
 fn main() {
